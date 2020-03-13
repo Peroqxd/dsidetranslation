@@ -1,0 +1,86 @@
+﻿nameguysdsidespack_0=Nameguy's D-Sides
+
+nameguysdsidespack_0_0_Prologue=Prologue
+nameguy_pg_text1=Bueno,{.} aqui esta ese sendero abandonada que querías ver...
+nameguy_pg_text2=Estas seguro de que quieres escalarlo, {n}despues de todo lo que hsa oído?
+nameguy_pg_text3=Tu sabras... En ese caso no voy a pararte.{.}{n}Suerte ahi fuera!
+
+nameguysdsidespack_0_1_City=Ciudad Abandonada Cara D
+poem_nameguysdsidespack_0_1_City_A=Bienvenido
+nameguysdsidespack_0_1_City_b_01=Callejuela
+
+nameguysdsidespack_0_2_Oldsite=Ruinas Cara D
+nameguysdsidespack_0_2_Oldsite_b_01=Memoria
+nameguysdsidespack_0_2_Oldsite_b_05=Salida trasera
+poem_nameguysdsidespack_0_2_Oldsite=Descansa
+poem_nameguysdsidespack_0_2_Oldsite_A=Descansa
+poem_nameguysdsidespack_0_2_Oldsite_B=Descansa
+nameguysdsidespack_0_2_Oldsite_remix=(:thinking: Mix)
+nameguysdsidespack_0_2_Oldsite_remix_artist=Ben Prunty
+nameguy_oldsite_text_intro=(Vuelve al mapa y vete a la cara B)
+
+nameguysdsidespack_0_3_resort=Celestial Resort Cara D
+poem_nameguysdsidespack_0_3_resort_A=Checking Out
+nameguysdsidespack_0_3_Resort_b_01=Para y sigue
+nameguysdsidespack_0_3_Resort_b_07=Tejado
+
+nameguysdsidespack_0_4_Ridge=Risco Dorado Cara D
+poem_nameguysdsidespack_0_4_Ridge_A=Lluvia congelada
+nameguysdsidespack_0_4_Ridge_b_01s=Viento pesado
+nameguysdsidespack_0_4_Ridge_c_01n=Tormento nevada
+
+nameguysdsidespack_0_5_Temple=Templo del Espejo Cara D
+nameguysdsidespack_0_5_Temple_c_01=Pasillo Principal
+nameguysdsidespack_0_5_Temple_d_01=Pasage Superior
+nameguysdsidespack_0_5_Temple_e_01=Entrando en el Espejo
+nameguysdsidespack_0_5_Temple_f_01=Crystal Boi
+poem_nameguysdsidespack_0_5_Temple_A=Reflección
+nameguy_temple_text1=[THEO left excited]Es la cara D del templo, {n}otra vez con  {#ffaafc}{~}Crystal Boi™{#}{/~}!
+nameguy_temple_text2=[THEO left worried]{big}{!}{~}Woah
+nameguy_temple_text3=[THEO left thinking]
+nameguy_temple_text4=[THEO left wtf] Estas segura de esto, {+MADELINE}?
+nameguy_temple_text5=[MADELINE right normal] No te preocupes, {+THEO}. Lo tengo controlado!
+nameguy_temple_text6=[THEO left thinking] Venga ya, que narices es eso!
+nameguy_temple_text7=[THEO left wtf] {+MADELINE}, esto ya {~}tiene {/~}que ser imposible. Pero ya de verdad.
+nameguy_temple_text8=[THEO left thinking] Ehhh me refería a esta. Esta es imposible. Confirmao.
+nameguy_temple_text_f10_die_60_times=[THEO left serious] Vamos, {+MADELINE}. Esto se puede.
+nameguy_temple_text_f11_die_30_times=[THEO left serious] Solo un poco mas. Animo, tu puedes {+MADELINE}.
+
+nameguysdsidespack_0_6_ReflectionD=Reflexión Cara D
+poem_nameguysdsidespack_0_6_ReflectionD_B=Heya
+nameguysdsidespack_0_6_ReflectionD_b_01=Descenso
+nameguysdsidespack_0_6_ReflectionD_c_01=Iniciativa
+nameguysdsidespack_0_6_ReflectionD_d_01=Centro
+reflectiondtext1=[BADELINE right yell]{+MADELINE}! Para!!
+reflectiondtext2=[BADELINE right angry]S sigues asi...\.\.\.
+reflectiondtext3=[BADELINE right scoff]Vas a llevarnos al centro {# ff4242}literal{# ffffff} de la tierra!
+reflectiondtext4=[BADELINE right sad]Ahhh!!
+nameguysdsidespack_0_6_ReflectionD_remix=(Reflections Mix)
+nameguysdsidespack_0_6_ReflectionD_remix_artist=Lena Raine & Jukio Kallio
+
+nameguysdsidespack_0_7_Summit=La Cima Cara D.
+poem_nameguysdsidespack_0_7_Summit_A=Amor
+poem_nameguysdsidespack_0_7_Summit_B=El final
+nameguysdsidespack_0_7_Summit_b_01=500M
+nameguysdsidespack_0_7_Summit_c_01=1000M
+nameguysdsidespack_0_7_Summit_d_01=1500M
+nameguysdsidespack_0_7_Summit_e_01=2000M
+nameguysdsidespack_0_7_Summit_e_01n=2000M
+nameguysdsidespack_0_7_Summit_f_01=2500M
+nameguysdsidespack_0_7_Summit_h_01=3000M
+nameguysdsidespack_0_7_Summit_g_01=3000M
+nameguy_dsides_newsummitd_heightdisplaytext=((count)) M
+nameguysdsidespack_0_7_Summit_remix=(No more running Mix)
+nameguysdsidespack_0_7_Summit_remix_artist=Kuraine
+
+nameguysdsidespack_0_8_core=Nucleo D-Side
+nameguysdsidespack_0_8_core_b_00=Incerno
+nameguysdsidespack_0_8_core_c_01=Sobrecarga
+nameguysdsidespack_0_8_core_c_05=Double Down
+poem_nameguysdsidespack_0_8_core_A=Corazonada
+poem_nameguysdsidespack_0_8_core_B=Gracias por jugar
+nameguysdsidespack_0_8_core_remix=(Say goodbye Mix)
+nameguysdsidespack_0_8_core_remix_artist=Matthew algo algo que no puedo poner simbolos japoneses
+
+
+
