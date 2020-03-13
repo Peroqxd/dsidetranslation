@@ -314,7 +314,7 @@ nameguysdsidespackfarewelldsideHB10=Maybe...
 nameguysdsidespackfarewelldsideHB11=..I don't need him..
 nameguysdsidespackfarewelldsideHB_End=
 	[MADELINE left normal]I don't need anyone to be my true self.
-
+#ZEREX################################################################################################################################
 nameguysdsidespackfarewelldsideSummitSectionMeterCount=0.0000000000000((count))ly
 nameguysdsidespackfarewelldsideSummitSectionMeterCountTwelveZeroes=0.000000000000((count))ly
 nameguysdsidespackfarewelldsideSummitSectionMeterCountTwelveZeroesSpace=0.000000000000 ((count)) ly
@@ -333,7 +333,7 @@ nameguysdsidespackfarewelldsideGoldenSectionMeetingTheo=
 	[MADELINE right upset]Yeah, yeah.{0.4} I'll carry you.
 	[MADELINE right upset]I have this wierd feeling that i'll magically {n}get blocked off by an invisible force {n}on the right side of the screen if i don't anyway.
 	[THEO left wtf]If you say so.
-
+#ZEREX################################################################################################################################
 
 
 
