@@ -83,24 +83,24 @@ nameguysdsidespack_0_8_core_remix=(Say goodbye Mix)
 nameguysdsidespack_0_8_core_remix_artist=Matthew algo algo que no puedo poner simbolos japoneses
 
 nameguysdsidespack_0_9_epilogue=Epilogue
-nameguysdsidespack_epilogue_memorial_text=		-- S E D I S - D   E T S E L E C --
-							a k i n o M  y b
-				This memorial dedicated to everyone who helped me on my journey:
-				Thank you 0x0ade for making Everest as well as doing a lot of other stuff;
-				Thanks Cruor and Vexatos for making Ahorn. This simply would not have been
-				possible without you. You guys are awesome. Thanks aswell to leo60228 for making
-				the Postcard checkpoint image mask thing. And Rubydragon for the epic co de mo ds.
-				Thanks to thefox, NeoKat and Hydro for translating.
-				Thank you Thegur90, for making those amazing two songs for 9d.
-				Special thanks to dahlukeh, Rubydragon, Flagpole1up, Eenox, Jude, ilikebreadtoomuch.
-				and all the people i forgot )^:
+nameguysdsidespack_epilogue_memorial_text=		-- D - S A R A C   E T S E L E C --
+							a k i n o M  r o P
+				Este memorial esta dedicado a aquellos quienes me ayudaron en mi trayecto:
+				Gracias 0x0ade por crear Everest y por hacer un monton de otras cosas;
+				Gracias Cruor y Vexatos por crear Ahorn. Esto simplemente no hubiera sido
+				posible sin ustedes. Ustedes son incredibles. Gracias tambien a leo60228 por crear
+				la mascara de imagen de los checkpoint de cartas. Y Rubydragon por los epicos mo ds de co di go.
+				Gracias a thefox, NeoKat y Hydro por traducir.
+				Gracias a Thegur90, por crear esas 2 maravillosas canciones para 9d.
+				Agradicimentos especiales a dahlukeh, Rubydragon, Flagpole1up, Eenox, Jude, ilikebreadtoomuch.
+				y toda la gente que olvide )^:
 nameguysdsidespack_epilogue_memorial_text2=
 				.
 				.
 				.
 				.
 				.
-				Yes, you too, J. Now shush.
+				Si, tu tambien, J. Ahora callate.
 ###if there's too many translators just say "Thanks to everybody who helped translate".
 nameguysdsidespackepiloguedsideintroroadtext1=[MADELINE left distracted]...
 nameguysdsidespackepiloguedsideintroroadtext2=[MADELINE left sad]{0.5}
