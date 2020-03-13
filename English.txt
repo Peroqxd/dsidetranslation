@@ -139,7 +139,7 @@ nameguysdsidespack_0_10_Farewell_v_00_lobby=Reunification
 nameguysdsidespack_0_10_Farewell_w_00=Point of no Return
 nameguysdsidespack_0_10_Farewell_w_08=Edge of the Universe
 nameguysdsidespack_0_10_Farewell_x_01=Bottomless
-nameguysdsidespack_0_10_Farewell_final_goodbye=Final Goodbye
+nameguysdsidespack_0_10_Farewell_x_99_final_goodbye=Final Goodbye
 poem_nameguysdsidespack_0_10_Farewell_A=X's and Circles
 nameguysdsidespack_0_10_Farewell_y_04=Go away
 nameguysdsidespack_0_10_Farewell_z_00=Infinity
@@ -173,7 +173,7 @@ nameguysdsidespackfarewelldsidedarknesshelp=
 	[MADELINE left sadder]{>> 0.15}...{>>}
 	[MADELINE left sadder]Why am i like this.
 	[MADELINE left panic]I'm so incapable of doing literally {*}anything{/*} else.
-	[MADELINE left panic]How am i supposed to ever be able to deal with all this?
+	[MADELINE left panic]How am i supposed to ever {n}be able to deal with all this?
 	[]...
 	[]Hey.
 	[]Are you doing alright?
@@ -225,7 +225,7 @@ nameguysdsidespackfarewelldsidedarknesshelpMoveBlocksEnd=
 nameguysdsidespackfarewelldsidedarknesshelpCoreBlocksIntro=
 	[]Aight. This one doesn't look too bad.
 nameguysdsidespackfarewelldsidedarknesshelpCoreBlocks=
-	[]So, there's two of those wierd {#ff3d4d}magma blocks{#ffffff} here.{n}One {#ede9e6}right in front of you{#ffffff}, the other one {#ede9e6}further back{#ffffff}.
+	[]So, there's two of those weird {#ff3d4d}magma blocks{#ffffff} here.{n}One {#ede9e6}right in front of you{#ffffff}, the other one {#ede9e6}further back{#ffffff}.
 	[]There's safe ground {#ffbdbf}further to the right{#ffffff}.{n}And then just {#b3fcff}climb up{#ffffff}.
 
 nameguysdsidespackfarewelldsidedarknesshelpOverWhen=
@@ -321,7 +321,7 @@ nameguysdsidespackfarewelldsideHB9=Maybe.. this isn't my fault.
 nameguysdsidespackfarewelldsideHB10=Maybe...
 nameguysdsidespackfarewelldsideHB11=..I don't need him..
 nameguysdsidespackfarewelldsideHB_End=
-	[MADELINE left glad]I don't need anyone to be my true self.
+	[MADELINE left normal]I don't need anyone to be my true self.
 
 nameguysdsidespackfarewelldsideSummitSectionMeterCount=0.0000000000000((count))ly
 nameguysdsidespackfarewelldsideSummitSectionMeterCountTwelveZeroes=0.000000000000((count))ly
@@ -336,10 +336,10 @@ nameguysdsidespackfarewelldsideGoldenSectionMeetingTheo=
 	[MADELINE right distracted]I don't even really remember how i got here.
 	[MADELINE right concerned]All i remember is some {n}yellow cross moving around {n}and a lot of colorful boxes. 
 	[MADELINE right concerned]...
-	[THEO left wtf]...{1.0}Wierd.
+	[THEO left wtf]...{1.0}Weird.
 	[THEO left normal]Anyway, now that you're here, would you mi-
 	[MADELINE right upset]Yeah, yeah.{0.4} I'll carry you.
-	[MADELINE right upset]I have this wierd feeling that i'll magically {n}get blocked off by an invisible force {n}on the right side of the screen if i don't anyway.
+	[MADELINE right upset]I have this weird feeling that i'll magically {n}get blocked off by an invisible force {n}on the right side of the screen if i don't anyway.
 	[THEO left wtf]If you say so.
 
 
