@@ -151,28 +151,28 @@ nameguysdsidespack_0_10_Farewell_z_00=Infinidad
 
 
 nameguysdsidespackfarewelldsidefastbubble1=
-		Can't {0.4}get {0.4}that {0.42}bubble {0.02}hyper?
-		-Fact: {0.4}Bubbles are easy to use.
-		-Much slow though{0.6}{n}-Pretty lame
-		-And not very fäst
-		-What do?
-		Introducing{0.05}.{0.05}.{0.05}.{0.05} {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#ffffff}!!!
-		[MADELINE left normal]With {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t {#d3ff9e}B{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#ffffff}, {0.08}you can be faster {0.02}{n}and less slow{~} at the same time!{/~}
-		[THEO_MIRROR right excited]It's {0.05}"totally impossibly hard {n}nobody could ever {~}possibly {/~}pull it off!"
-		[]-How It's Done-
-		Right when yo{>> 0.34}u enter the {>> 0.27}mysterious {>> 0.25}floating {>> 0.22}spherical {>> 0.19}manifestation of water{0.05}, {>>}{1.0}{#59193e}dash.{#ffffff}{>>}
-		{~}You did it! {/~}{0.8}(go you) {0.85}(amazing job {0.16}wow){1.5} {n}(you're the best) {1.4}(well {0.1}second best) {n}{1.9}(but good enough right)
-		Having trouble pressing the dash button?
-		{#ffa8cf}If the bubble don't go fast{#ffffff},{n}{0.5}You already got launched.{0.6} Good job.
-		{#ff9eca}If you do an {~}actual dash{/~}{#ffffff},{0.6} you weren't in the bubble.{1.4} You dum.
-		Really not much more to say. {n}How would you even get this far {n}if you don't already know this anyway.
-		{#9eabff}H{#c59eff}a{#ea9eff}p{#ff9ef4}p{#ff9ec8}y {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#e49eff}!{#ffffff}
+		No {0.4}puedes {0.4}hacer {0.42}hypers {0.02}de burbujas?
+		-Dato: {0.4}Las burbujas son faciles de usar.
+		-Aunque muy lentas{0.6}{n}-Muy cutre
+		-Y no muy räpido
+		-Que hacer
+		Introduciendo{0.05}.{0.05}.{0.05}.{0.05} {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#ffffff}!!!
+		[MADELINE left normal]Con {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t {#d3ff9e}B{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#ffffff}, {0.08}puedes ir mas rapido {0.02}{n}y menos lento{~} a la vez!{/~}
+		[THEO_MIRROR right excited]Es {0.05}"super increiblemente imposiblemente dificil {n}nadie podra {~}de ninguna forma {/~}conseguirlo!"
+		[]-Como se hace-
+		En el momento en el qu{>> 0.34}e entras la {>> 0.27}misteriosa {>> 0.25}floatente {>> 0.22}esferical {>> 0.19}manifestacion de agua{0.05}, {>>}{1.0}{#59193e}haz un dash.{#ffffff}{>>}
+		{~}Lo hiciste! {/~}{0.8}(vamos tu) {0.85}(increible trabajo{0.16}wow){1.5} {n}(eres lo mejor) {1.4}(bueno {0.1}segundo mejor) {n}{1.9}(pero suficiente no?)
+		Tienes dificultad pulsando el boton de dash?
+		{#ffa8cf}Si la burbuja no va rapido{#ffffff},{n}{0.5}ya te has ido.{0.6} Bien hecho.
+		{#ff9eca}Si haces un {~}dash normal y corriente{/~}{#ffffff},{0.6} No estabas en la burbuja.{1.4} Tonto.
+		No hay mas que decir. {n}Como has llegado tan lejos {n}sin saberlo de todas formas.
+		{#9eabff}E{#c59eff}n{#ea9eff}h{#ff9ef4}o{#ff9ec8}r {#ff9e9e}a{#ffc39e}b{#ffe09e}u{#fcff9e}e{#d3ff9e}n{#b0ff9e}a{#9effad}!{#9effea}!{#9eefff}!{#9ecbff}!{#a49eff}!{#c09eff}!{#e49eff}!{#ffffff}
 		
 
 nameguysdsidespackfarewelldsidedarknesshelp=
 	[MADELINE left sadder]{>> 0.15}...{>>}
-	[MADELINE left sadder]Why am i like this.
-	[MADELINE left panic]I'm so incapable of doing literally {*}anything{/*} else.
+	[MADELINE left sadder]Porque soy asi.
+	[MADELINE left panic]So tan incapaz de hacer literalmente {*}nada{/*}.
 	[MADELINE left panic]How am i supposed to ever {n}be able to deal with all this?
 	[]...
 	[]Hey.
