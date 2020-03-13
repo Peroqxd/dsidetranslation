@@ -1,7 +1,7 @@
 ﻿nameguysdsidespack_0=Monika's D-Sides
 
 nameguysdsidespack_0_0_Prologue=Prólogo
-nameguy_pg_text1=Bueno,{.} aquí está ese sendero abandonada que querías ver...
+nameguy_pg_text1=Bueno,{.} aquí está ese sendero abandonado que querías ver...
 nameguy_pg_text2=Estás segura de que quieres escalarlo, {n}¿después de todo lo que te he dicho?
 nameguy_pg_text3=Oh bueno... En ese caso, no voy a detenerte.{.}{n}¡Suerte ahí fuera!
 
