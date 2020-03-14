@@ -229,91 +229,91 @@ nameguysdsidespackfarewelldsidedarknesshelpCoreBlocks=
 	[]Hay camino seguro {#ffbdbf}más a la derecha{#ffffff}.{n}Luego solo {#b3fcff}escala arriba{#ffffff}.
 
 nameguysdsidespackfarewelldsidedarknesshelpOverWhen=
-	[]Bien hecho cariño. Lo estas haciendo genial!	
-	[MADELINE left sad]Perdon por tomar tanto tiempo.{n}Me estas ayudando mucho,{n}pero no parece que este progresando.
-	[]Esta bien.{n}Me quedare contigo por cuanto tiempo me necesites.
+	[]Bien hecho cariño. ¡Lo estas haciendo genial!	
+	[MADELINE left sad]Perdón por tomar tanto tiempo.{n}Me estás ayudando mucho,{n}pero no parece que esté progresando.
+	[]Está bien.{n}Me quedaré contigo por cuanto tiempo me necesites.
 nameguysdsidespackfarewelldsidedarknesshelpPinkRefill=
-	[]Hay un {#6bff66}dash crystal{#ffffff} bastante lejos {n}{#ffbdbf}hacia la derecha{#ff8f93} de donde estas{#ffffff}. 
-	[]Usalo para subir a ese reborde {n}el cual esta {#ffee80}arriba a la derecha{#ffffff}.
+	[]Hay un {#6bff66}dash crystal{#ffffff} bastante lejos {n}{#ffbdbf}hacía la derecha{#ff8f93} de donde estás{#ffffff}. 
+	[]Usalo para subir a ese reborde {n}el cual está {#ffee80}arriba a la derecha{#ffffff}.
 nameguysdsidespackfarewelldsidedarknesshelpSwapBlock=
-	[]Ve un poco mas lejos y has un dash {#db99ff}abajo{#ffffff}. {n}{0.1}Eso debiera mover ese {#87bbff}bloque{#ffffff} y llevate a{n} el otro lado.
+	[]Ve un poco mas lejos y haz un dash {#db99ff}abajo{#ffffff}. {n}{0.1}Eso debiera mover ese {#87bbff}bloque{#ffffff} y llevarte a{n} el otro lado.
 	
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingIntro=
-	[]Mas de estos {#a386d1}bloques movedizos{#ffffff}.
+	[]Más de estos {#a386d1}bloques movedizos{#ffffff}.
 	[]Esta vez parecen estar bastante mas lejos.
-	[]Uh, muevete {#ff8f93}derecho{#ffffff} hasta estar en el {#a386d1}bloque{#ffffff},{n}y luego espera aproximadamente... {n}{#c7ff45}8{#ffffff} segundos o alg-
+	[]Uh, muevete {#ff8f93}derecho{#ffffff} hasta estar en el {#a386d1}bloque{#ffffff},{n}y luego espera apróximadamente... {n}{#c7ff45}8{#ffffff} segundos o alg-
 	[MADELINE left upset]Esto nunca va a funcionar.{n}{0.6}Ni siquiera se cuando {n}voy a tener que saltar.
-	[]...Tienes {#ff8f93}razon.{#ffffff}
+	[]...Tienes {#ff8f93}razón.{#ffffff}
 	[MADELINE left upset]...
-	[]{>>0.5}Hmmm...{>>}
+	[]{>>0.5}Mmmm...{>>}
 	[]Ok. Tengo una idea.
-	[MADELINE left sad] Ohno.
+	[MADELINE left sad] Oh no.
 	[]Solo ten paciencia. {0.1}Lo lograremos.
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTiming=
-	[]Bien, entnoces, {0.2}Parate en el {#a386d1}bloque{#ffffff}. {n}Cuando te diga, salta en tu lugar.
+	[]Bien, entonces, {0.2}Parate en el {#a386d1}bloque{#ffffff}. {n}Cuando te diga, salta en tu lugar.
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownIntro=Bien, entonces..
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownThree=3...
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownTwo=2..
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownOne=1..
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownZero=0..
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownMinusOne=-0..
-nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownJump=Salta!!
-nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownGo=Ve!!
-nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingFirstJumpDone=Yay! Buen trabajo. En fin uh, SALTA
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownJump=¡¡Salta!!
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownGo=¡¡Ve!!
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingFirstJumpDone=¡Yay! Buen trabajo. En fin uh, SALTA
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingSecondJumpDone=Y AGACHATE
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingAfterDuck=Lo siento por eso jaja. Bueno,{n} cuando diga ve, Vas a saltar y hacer un dash arriba, ok?
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingEnd=
-	[MADELINE left upset]Ok, ahora solo te estas bromeando.
+	[MADELINE left upset]Ok, ahora solo estas bromeando conmigo.
 	[]Ajaja Lo siento.
 nameguysdsidespackfarewelldsidedarknesshelpBRB=Ok {+MADELINE}. Tengo que
 nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutWalkRight=
-	[]Hm. Con cuidado camina un poco a la derecha.
-nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutStop=Bien, ahora detente.{n} Creo que si solo haces un dash desde aqui lo lograras.
+	[]Mm. Con cuidado camina un poco a la derecha.
+nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutStop=Bien, ahora detente.{n} Creo que si solo haces un dash desde aquí lo lograrás.
 nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutDashNGrab=
-	[]Cool.{n}Hay una pared hacia la derecha. {n}Solo haz un dash hacia ella y escala hacia arriba.
-nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutGrabJumpOverToTheRight=Ahora salta hacia la derecha.
-nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutStopAgain=Para. Ahora... {0.1}uhh.{0.05}{n}Has ese {#00d5ff}salto {#61e5ff}largo {#80eaff}el {#adf2ff}que {#bff5ff}va {#d4f8ff}muy {#fbb3ff}rapido{#ffffff}.
+	[]Bien.{n}Hay una pared hacia la derecha. {n}Solo haz un dash hacía ella y escala hacía arriba.
+nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutGrabJumpOverToTheRight=Ahora salta hacía la derecha.
+nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutStopAgain=Para. Ahora... {0.1}uhh.{0.05}{n}Haz ese {#00d5ff}salto {#61e5ff}largo {#80eaff}el {#adf2ff}que {#bff5ff}va {#d4f8ff}muy {#fbb3ff}rápido{#ffffff}.
 nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutICanDoThisAloneNowIdiot=
 	[]Ok, ahora sol-
 	[MADELINE left normal]Gracias cariño, pero creo que {n}puedo hacer esto por mi cuenta ahora.
-	[]Oh, bien! Bueno.
+	[]¡Oh, bien! Bueno.
 nameguysdsidespackfarewelldsidedarknesshelpAfterwards=
-	[MADELINE left sad]Cariño. Perdon por ser un lio.
+	[MADELINE left sad]Cariño. Perdón por ser un caos.
 	[MADELINE left normal]Gracias por ayudarme.{n}Me siento mucho mejor ahora.
 	[]No hay problema jaja.{0.3} Te amo.
-	[MADELINE left peaceful] Yo tambien te amo.
+	[MADELINE left peaceful] Yo también te amo.
 nameguysdsidespackfarewelldsidedarknesshelpAfterwards2=
-	[]Deberias dormir. Te ayudara.
+	[]Deberías dormir. Te ayudará.
 	[MADELINE left sad]No. Hay algo que tengo que terminar primero.
 	[MADELINE left normal]Aun que, tu puedes ir si quieres.
-	[]Estas segura?
-	[MADELINE left normal]Si. Estare bien.
+	[]¿Estás segura?
+	[MADELINE left normal]Si. Estaré bien.
 	[]Bien porque de hecho estoy algo cansado jaja.
 	[MADELINE left sad]Lo siento, no quise mantenerte despierto.
-	[]Nah, esta bien. {n}Y deja de disculparte por todo.
+	[]Nah, está bien. {n}Y deja de disculparte por todo.
 	[MADELINE left peaceful] Lo siento.
 	[]Shhh.
 	[]Bueno, voy a la cama.{n}Buena suerte con el resto de esto.
 	[MADELINE left normal]Gracias. Buenas noches. {0.2}{#d996ff}<3{#ffffff}
 nameguysdsidespackfarewelldsideCloudAscentIntro=
-	[BADELINE right concerned]{+MADELINE}. {0.1}Por cuanto tiempo va a seguir esto?
-	[BADELINE right upset]Ya tendrias que haberlo superado.
-	[MADELINE left distracted]Si. {0.1}Lo se.{0.2}{n}Y lo hare.
+	[BADELINE right concerned]{+MADELINE}. {0.1}¿Por cuanto tiempo va a seguir esto?
+	[BADELINE right upset]Ya tendrías que haberlo superado.
+	[MADELINE left distracted]Si. {0.1}Lo sé.{0.2}{n}Y lo haré.
 	[MADELINE left sad]Pero tengo que terminar esto correctamente.
-	[MADELINE left sad]Esta es la ultima vez que podre hacer esto.
-	[MADELINE left sad]Asi que solo coopera conmigo, ok?
-	[MADELINE left upset]Ademas no me has estado ayudando{n}mucho hasta ahora.
-	[BADELINE right sigh]Lo siento.{1.0}{n}Tienes razon.
+	[MADELINE left sad]Esta es la última vez que podre hacer esto.
+	[MADELINE left sad]Asi que solo coopera conmigo, ¿ok?
+	[MADELINE left upset]Además no me has estado ayudando{n}mucho hasta ahora.
+	[BADELINE right sigh]Lo siento.{1.0}{n}Tienes razón.
 nameguysdsidespackfarewelldsideItsSummitTime=
 	[BADELINE right worried]Bueno.
 	[BADELINE right worried]Hagamoslo..
-	[MADELINE left normal]Una ultima vez.
+	[MADELINE left normal]Una última vez.
 	
-nameguysdsidespackfarewelldsideHB1=Despues de todo lo que pasamos,
-nameguysdsidespackfarewelldsideHB2=por que no me quiere?
+nameguysdsidespackfarewelldsideHB1=Después de todo lo que pasamos,
+nameguysdsidespackfarewelldsideHB2=¿por qué no me quiere?
 nameguysdsidespackfarewelldsideHB3=Hice todo lo que pude.
-nameguysdsidespackfarewelldsideHB4=Que hice mal?
-nameguysdsidespackfarewelldsideHB5=No puedo lidiar con esto.
+nameguysdsidespackfarewelldsideHB4=¿Qué hice mal?
+nameguysdsidespackfarewelldsideHB5=No puedo luchar con esto.
 nameguysdsidespackfarewelldsideHB6=Duele mucho.
 nameguysdsidespackfarewelldsideHB7=Porfavor.. detenlo
 nameguysdsidespackfarewelldsideHB8=Sabes..
@@ -331,13 +331,13 @@ nameguysdsidespackfarewelldsideGoldenSectionMeetingTheo=
 	[THEO left excited]{+MADELINE}!
 	[THEO left wtf]...Espera. {0.6}No.
 	[THEO left wtf]No puedes ser...{0.4} No puedes ser real.
-	[THEO left thinking]Me estoy volviendo loco?
+	[THEO left thinking]¿Me estoy volviendo loco?
 	[MADELINE right normal]Creo que yo{/~} soy la que se volvió loca.
-	[MADELINE right distracted]Ni siquiera recuerdo como llegue aquí.
+	[MADELINE right distracted]Ni siquiera recuerdo como llegué aquí.
 	[MADELINE right concerned]Todo lo que recuerdo es  una {n}cruz amarilla moviéndose {n}y un montón de cajas coloridas. 
 	[MADELINE right concerned]...
 	[THEO left wtf]...{1.0}Que raro.
-	[THEO left normal]Bueno, ahora que estas aquí, te importari-
+	[THEO left normal]Bueno, ahora que estas aquí, te importarí-
 	[MADELINE right upset]Si si,.{0.4} Te voy a cargar.
 	[MADELINE right upset]Tengo esta extraña sensación que mágicamente voy a ser {n}encerrada por una fuerza invisible {n}en el lado derecho de la pantalla si no lo hago.
 	[THEO left wtf]Si tu lo dices.
