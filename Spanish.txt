@@ -88,7 +88,7 @@ nameguysdsidespack_0_8_core_c_05=Double Down
 poem_nameguysdsidespack_0_8_core_A=Corazonada
 poem_nameguysdsidespack_0_8_core_B=Gracias por jugar.
 nameguysdsidespack_0_8_core_remix=(Say goodbye Mix)
-nameguysdsidespack_0_8_core_remix_artist=Matthew algo algo que no puedo poner simbolos japoneses
+nameguysdsidespack_0_8_core_remix_artist=Matthew algo algo que no puedo escribir simbolos japoneses
 
 nameguysdsidespack_0_9_epilogue=Epílogo
 nameguysdsidespack_epilogue_memorial_text=		-- D - S A R A C   E T S E L E C --
