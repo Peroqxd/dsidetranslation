@@ -160,74 +160,73 @@ nameguysdsidespackfarewelldsidefastbubble1=
 		[MADELINE left normal]Con {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t {#d3ff9e}B{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#ffffff}, {0.08}puedes ser mas rápido {0.02}{n}y menos lento{~} a la vez!{/~}
 		[THEO_MIRROR right excited]Es {0.05}"super imposiblemente difícil {n}nadie podrá {~}de ninguna forma {/~}conseguirlo!"
 		[]-Como se hace-
-############################################################################I have to remove this and will continue fixing typos from here tomorrow - Peroqxd#####################################################################################################
-		En el momento en el qu{>> 0.34}e entras la {>> 0.27}misteriosa {>> 0.25}floatente {>> 0.22}esferical {>> 0.19}manifestacion de agua{0.05}, {>>}{1.0}{#59193e}haz un dash.{#ffffff}{>>}
-		{~}Lo hiciste! {/~}{0.8}(vamos tu) {0.85}(increible trabajo{0.16}wow){1.5} {n}(eres lo mejor) {1.4}(bueno {0.1}segundo mejor) {n}{1.9}(pero suficiente no?)
-		Tienes dificultad pulsando el boton de dash?
-		{#ffa8cf}Si la burbuja no va rapido{#ffffff},{n}{0.5}ya te has ido.{0.6} Bien hecho.
+		En el momento en el qu{>> 0.34}e entras la {>> 0.27}misteriosa {>> 0.25}flotante {>> 0.22}esferical {>> 0.19}manifestacion de agua{0.05}, {>>}{1.0}{#59193e}haz un dash.{#ffffff}{>>}
+		{~}Lo hiciste! {/~}{0.8}(vamos tu) {0.85}(increible trabajo{0.16}guau){1.5} {n}(eres lo mejor) {1.4}(bueno, {0.1}segundo mejor) {n}{1.9}(¿Pero suficiente, no?)
+		¿Tienes dificultad pulsando el botón de dash?
+		{#ffa8cf}Si la burbuja no va rapido{#ffffff},{n}{0.5}ya fuiste lanzado.{0.6} Bien hecho.
 		{#ff9eca}Si haces un {~}dash normal y corriente{/~}{#ffffff},{0.6} No estabas en la burbuja.{1.4} Tonto.
-		No hay mas que decir. {n}Como has llegado tan lejos {n}sin saberlo de todas formas.
-		{#9eabff}E{#c59eff}n{#ea9eff}h{#ff9ef4}o{#ff9ec8}r {#ff9e9e}a{#ffc39e}b{#ffe09e}u{#fcff9e}e{#d3ff9e}n{#b0ff9e}a{#9effad}!{#9effea}!{#9eefff}!{#9ecbff}!{#a49eff}!{#c09eff}!{#e49eff}!{#ffffff}
+		No hay mucho más que decir. {n}Como habrías llegado tan lejos {n}sin saberlo de todas formas.
+		{#e49eff}¡{#9eabff}F{#c59eff}e{#ea9eff}l{#ff9ef4}i{#ff9ec8}z {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#e49eff}!{#ffffff}
 		
 
 nameguysdsidespackfarewelldsidedarknesshelp=
 	[MADELINE left sadder]{>> 0.15}...{>>}
-	[MADELINE left sadder]Porque soy asi.
-	[MADELINE left panic]Soy tan incapaz de hacer literalmente {*}cualquier cosa{/*}.
-	[MADELINE left panic]Como se supone que voy a poder {n}lidiar con todo esto?
+	[MADELINE left sadder]¿Por qué soy asi?
+	[MADELINE left panic]Soy tan incapaz de hacer literalmente {*}cualquier{/*} cosa.
+	[MADELINE left panic]¿Cómo se supone que voy a poder {n}enfrentar todo esto?
 	[]...
 	[]Oye.
-	[]Estas bien?
-	[MADELINE left sad] Uhm.. {0.3}no. {0.1}En verdad no.
-	[]Esta bien. {0.1}Ven aqui. {0.1}Dejame darte un abrazo.
+	[]¿Estás bien?
+	[MADELINE left sad] Umm.. {0.3}no. {0.1}En verdad no.
+	[]Esta bien. {0.1}Ven aquí. {0.1}Déjame darte un abrazo.
 	[MADELINE left sad]{0.4}.{0.4}.{0.4}.
 	[]{0.4}.{0.4}.{0.4}.
 	[MADELINE left peaceful]{0.38}.{0.3}.{0.29}.
 	[MADELINE left peaceful]Gracias.
-	[]Ahora.{0.3} Vamos a atravezar esto juntos.
-	[MADELINE left sad]...{0.05}Esta bien.
-	[]Se que estas en un lugar muy oscuro ahora mismo.{n}	Pero hare lo mas que pueda para ayudarte.
+	[]Ahora.{0.3} Vamos a atravesar esto juntos.***
+	[MADELINE left sad]...{0.05}Está bien.
+	[]Se que estás en un lugar muy oscuro ahora mismo.{n}	Pero haré lo más que pueda para ayudarte.
 	[]Asi que uh. {0.1}Intenta ir a la derecha.
 
 nameguysdsidespackfarewelldsidedarknesshelpBubblesIntro=
-	[]Bien. {0.1}Solo manten la calma.{n} {0.05}Podemos hacer esto juntos.
+	[]Bien. {0.1}Solo manten la calma.{n} {0.05}Podemos hacer esto juntos.***
 nameguysdsidespackfarewelldsidedarknesshelpBubbles=
 	[]Hay un par de {#00ff66}burbujas{#ffffff} justo en frente de ti.
-	[]Tendras que ir a la {#ff8f93}derecha{#ffffff} hasta que toques la cuarta, la cual tendras que tomar hacia {#b3fcff}arriba{#ffffff}. Luego solo sigue por la {#ff8f93}derecha{#ffffff} de nuevo.
+	[]Tendrás que ir a la {#ff8f93}derecha{#ffffff} hasta que toques la cuarta, la cual tendras que tomar hacia {#b3fcff}arriba{#ffffff}. Luego solo sigue por la {#ff8f93}derecha{#ffffff} de nuevo.
 nameguysdsidespackfarewelldsidedarknesshelpBubblesEnd=
-	[]Ahi. Definitivamente lo tenemos!
-	[MADELINE left normal] Si!
-	[MADELINE left sad]Aun asi, sigo un poco asustada...
-	[]No tienes porque. {0.1}Estoy aqui para ti.
+	[]Ahí. ¡Definitivamente lo tenemos!
+	[MADELINE left normal] ¡Si!
+	[MADELINE left sad]Aun así, sigo un poco asustada...
+	[]No tienes porque. {0.1}Estoy aquí para ti.
 	[]Ahora solo ve a la derecha y no te tropieces jaja.{0.4}{n}Hay un pequeño reborde ahi.
 
 nameguysdsidespackfarewelldsidedarknesshelpMoreBubblesIntro=
-	[]Bien esto, se ven como mas de esas {#00ff66}burbujas{#ffffff}.
+	[]Bien, esto se ven como mas de esas {#00ff66}burbujas{#ffffff}.
 nameguysdsidespackfarewelldsidedarknesshelpMoreBubbles=
-	[]La primera esta directamente {#b3fcff}arriba{#ffffff} tuyo.
-	[]Luego es {#ff8f93}derecho{#ffffff}, {#b3fcff}arriba 2 veces{#ffffff}, {#ff8f93}derecha{#ffffff}, {#db99ff}abajo{#ffffff}, y {#ff8f93}derecho{#ffffff} de nuevo.
-	[]Hay una pared {#ff8f93}mas lejos a la derecha.{#ffffff}{0.1}{n} Si la escalas hacia {#b3fcff}arriba{#ffffff}, deberian haber mas burbujas{n} ahi arriba las cuales solo debes tomar a la {#ff8f93}derecha{#ffffff}.
+	[]La primera esta justo {#b3fcff}arriba{#ffffff} tuyo.
+	[]Luego es {#ff8f93}derecha{#ffffff}, {#b3fcff}arriba dos veces{#ffffff}, {#ff8f93}derecha{#ffffff}, {#db99ff}abajo{#ffffff}, y {#ff8f93}derecha{#ffffff} de nuevo.
+	[]Hay una pared {#ff8f93}más lejos a la derecha.{#ffffff}{0.1}{n} Si la escalas hacía {#b3fcff}arriba{#ffffff}, deberían haber más burbujas{n} ahí arriba las cuales solo puedes tomar a la {#ff8f93}derecha{#ffffff}.
 nameguysdsidespackfarewelldsidedarknesshelpMoreBubblesAppendix=
 	[MADELINE left sad]Esto parece muy complicado.
-	[]Jaja{0.07} probablemente lo hice sonar muy mal{n} Pero creeme es bastante simple.
+	[]Jaja{0.07} probablemente lo hice sonar muy complicado{n} Pero créeme es bastante simple.
 nameguysdsidespackfarewelldsidedarknesshelpMoreBubblesEnd=
-	[]Lo ves? Te dije que no era tan malo.
-	[MADELINE left upset]No. {0.1}No lo veo. {0.22}De hecho no veo nada.
+	[]¿Lo ves? Te dije que no era tan malo.
+	[MADELINE left upset]No. {0.1}No lo veo. {0.22}De hecho, no veo nada.
 	[MADELINE left normal]Bueno, sigamos.
 
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlocks=
-	[]Ok entonces, si sigues caminando por un momento{n} tendria que haber uno de esos {#a386d1}bloques movedizos{#ffffff} ahi.
+	[]Ok entonces, si sigues caminando por un momento{n} tendria que haber uno de esos {#a386d1}bloques movedizos{#ffffff} ahí.
 	[]Solo parate en el por, algo entre {#c7ff45}2{#ffffff} a {#c7ff45}3{#ffffff} segundos.
-	[]Luego tendria que haber {#a386d1}otro{#ffffff} al cual puedes hacer un dash y agarrar {#ddff9e}arriba tuyo a la izquierda{#ffffff}.
-	[]Parece que la distancia es la misma, asi que espera el mismo tiempo. Solo solo{#db99ff}dejate caer{#ffffff}.
+	[]Luego tendría que haber {#a386d1}otro{#ffffff} al cual puedes hacer un dash y agarrar {#ddff9e}arriba tuyo a la izquierda{#ffffff}.
+	[]Parece que la distancia es la misma, asi que espera el mismo tiempo. Luego solo {#db99ff}dejate caer{#ffffff}.
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlocksEnd=
-	[]Bien! {0.1}Ahora solo camina hacia la derecha
+	[]¡Bien! {0.1}Ahora solo camina hacia la derecha
 
 nameguysdsidespackfarewelldsidedarknesshelpCoreBlocksIntro=
 	[]Bueno. Este no se ve tan mal.
 nameguysdsidespackfarewelldsidedarknesshelpCoreBlocks=
-	[]Entonces, hay dos de estos raros {#ff3d4d}bloques de magma{#ffffff} aqui.{n}Uno {#ede9e6}justo en frente tuyo{#ffffff}, el otro {#ede9e6}mas lejos{#ffffff}.
-	[]hay tierra {#ffbdbf}mas a la derecha{#ffffff}.{n}Luego solo {#b3fcff}escala arriba{#ffffff}.
+	[]Entonces, hay dos de estos raros {#ff3d4d}bloques de magma{#ffffff} aquí.{n}Uno {#ede9e6}justo en frente tuyo{#ffffff}, el otro {#ede9e6}más lejos{#ffffff}.
+	[]Hay camino seguro {#ffbdbf}más a la derecha{#ffffff}.{n}Luego solo {#b3fcff}escala arriba{#ffffff}.
 
 nameguysdsidespackfarewelldsidedarknesshelpOverWhen=
 	[]Bien hecho cariño. Lo estas haciendo genial!	
