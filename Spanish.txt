@@ -114,33 +114,33 @@ nameguysdsidespackepiloguedsideintroroadtext1=[MADELINE left distracted]...
 nameguysdsidespackepiloguedsideintroroadtext2=[MADELINE left sad]{0.5}
 
 
-nameguysdsidespack_0_10_Farewell=El Ultimo Adios
-nameguysdsidespack_0_10_Farewell_aa_00_lobby=Solitud Pacifica
+nameguysdsidespack_0_10_Farewell=El Último Adiós
+nameguysdsidespack_0_10_Farewell_aa_00_lobby=Solitud Pacífica
 nameguysdsidespack_0_10_Farewell_b_01=Vislumbrar de libertad
 nameguysdsidespack_0_10_Farewell_c_02=Curiosidad
-nameguysdsidespack_0_10_Farewell_d_01=Dedicacion
+nameguysdsidespack_0_10_Farewell_d_01=Dedicacipn
 nameguysdsidespack_0_10_Farewell_d_10=Recuerdos
-nameguysdsidespack_0_10_Farewell_dd_00_lobby=Creacion
-nameguysdsidespack_0_10_Farewell_f_01=Exploracion
-nameguysdsidespack_0_10_Farewell_g_01=Depresion
+nameguysdsidespack_0_10_Farewell_dd_00_lobby=Creación
+nameguysdsidespack_0_10_Farewell_f_01=Exploración
+nameguysdsidespack_0_10_Farewell_g_01=Depresión
 nameguysdsidespack_0_10_Farewell_h_08=Confianza
 nameguysdsidespack_0_10_Farewell_i_01=Serenidad
 nameguysdsidespack_0_10_Farewell_j_00=Revisitar
 nameguysdsidespack_0_10_Farewell_l_01=Karma Negro
 nameguysdsidespack_0_10_Farewell_m_13=Espejo Dispersado de la Tormenta
 nameguysdsidespack_0_10_Farewell_p_01=Corrida de Amanecer
-nameguysdsidespack_0_10_Farewell_q_01=El adios de la Montaña
+nameguysdsidespack_0_10_Farewell_q_01=El adiós de la Montaña
 nameguysdsidespack_0_10_Farewell_r_01=Corazon Latiendo
 nameguysdsidespack_0_10_Farewell_s_01=Realización
 nameguysdsidespack_0_10_Farewell_t_01=Partiendo
 nameguysdsidespack_0_10_Farewell_t_03=Plural
 nameguysdsidespack_0_10_Farewell_u_01=Amor Verdadero
-nameguysdsidespack_0_10_Farewell_v_00_lobby=Reunificacion
+nameguysdsidespack_0_10_Farewell_v_00_lobby=Reunificación
 nameguysdsidespack_0_10_Farewell_w_00=Punto de No Retorno
 nameguysdsidespack_0_10_Farewell_w_08=Borde del universo
 nameguysdsidespack_0_10_Farewell_x_01=Sin fondo
-nameguysdsidespack_0_10_Farewell_x_99_final_goodbye=El Ultimo Adios
-poem_nameguysdsidespack_0_10_Farewell_A=X's y Circulos
+nameguysdsidespack_0_10_Farewell_x_99_final_goodbye=El Último Adiós
+poem_nameguysdsidespack_0_10_Farewell_A=Xs y Circulos
 nameguysdsidespack_0_10_Farewell_y_04=Vete
 nameguysdsidespack_0_10_Farewell_z_00=Infinidad
 
@@ -153,13 +153,14 @@ nameguysdsidespack_0_10_Farewell_z_00=Infinidad
 nameguysdsidespackfarewelldsidefastbubble1=
 		No {0.4}puedes {0.4}hacer {0.42}hypers {0.02}de burbujas?
 		-Dato: {0.4}Las burbujas son faciles de usar.
-		-Aunque muy lentas{0.6}{n}-Muy cutre
+		-Aunque muy lentas{0.6}{n}-Muy aburrido
 		-Y no muy räpido
-		-Que hacer
-		Introduciendo{0.05}.{0.05}.{0.05}.{0.05} {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#ffffff}!!!
-		[MADELINE left normal]Con {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t {#d3ff9e}B{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#ffffff}, {0.08}puedes ir mas rapido {0.02}{n}y menos lento{~} a la vez!{/~}
-		[THEO_MIRROR right excited]Es {0.05}"super increiblemente imposiblemente dificil {n}nadie podra {~}de ninguna forma {/~}conseguirlo!"
+		-¿Que hacer?
+		Introduciendo{0.05}.{0.05}.{0.05}.{0.05} ¡¡¡{#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#ffffff}!!!
+		[MADELINE left normal]Con {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t {#d3ff9e}B{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#ffffff}, {0.08}puedes ser mas rápido {0.02}{n}y menos lento{~} a la vez!{/~}
+		[THEO_MIRROR right excited]Es {0.05}"super imposiblemente difícil {n}nadie podrá {~}de ninguna forma {/~}conseguirlo!"
 		[]-Como se hace-
+############################################################################I have to remove this and will continue fixing typos from here tomorrow - Peroqxd#####################################################################################################
 		En el momento en el qu{>> 0.34}e entras la {>> 0.27}misteriosa {>> 0.25}floatente {>> 0.22}esferical {>> 0.19}manifestacion de agua{0.05}, {>>}{1.0}{#59193e}haz un dash.{#ffffff}{>>}
 		{~}Lo hiciste! {/~}{0.8}(vamos tu) {0.85}(increible trabajo{0.16}wow){1.5} {n}(eres lo mejor) {1.4}(bueno {0.1}segundo mejor) {n}{1.9}(pero suficiente no?)
 		Tienes dificultad pulsando el boton de dash?
