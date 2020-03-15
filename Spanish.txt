@@ -183,13 +183,13 @@ nameguysdsidespackfarewelldsidedarknesshelp=
 	[]{0.4}.{0.4}.{0.4}.
 	[MADELINE left peaceful]{0.38}.{0.3}.{0.29}.
 	[MADELINE left peaceful]Gracias.
-	[]Ahora.{0.3} Vamos a atravesar esto juntos.***
+	[]Ahora.{0.3} Vamos a atravesar esto juntos.
 	[MADELINE left sad]...{0.05}Está bien.
 	[]Se que estás en un lugar muy oscuro ahora mismo.{n}	Pero haré lo más que pueda para ayudarte.
 	[]Asi que uh. {0.1}Intenta ir a la derecha.
 
 nameguysdsidespackfarewelldsidedarknesshelpBubblesIntro=
-	[]Bien. {0.1}Solo manten la calma.{n} {0.05}Podemos hacer esto juntos.***
+	[]Bien. {0.1}Solo manten la calma.{n} {0.05}Podemos hacer esto juntos.
 nameguysdsidespackfarewelldsidedarknesshelpBubbles=
 	[]Hay un par de {#00ff66}burbujas{#ffffff} justo en frente de ti.
 	[]Tendrás que ir a la {#ff8f93}derecha{#ffffff} hasta que toques la cuarta, la cual tendras que tomar hacia {#b3fcff}arriba{#ffffff}. Luego solo sigue por la {#ff8f93}derecha{#ffffff} de nuevo.
