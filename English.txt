@@ -98,8 +98,8 @@ nameguysdsidespack_epilogue_memorial_text=		-- S E D I S - D   E T S E L E C --
 				Thanks Cruor and Vexatos for making Ahorn. This simply would not have been
 				possible without you. You guys are awesome. Thanks aswell to leo60228 for making
 				the Postcard checkpoint image mask thing. And Rubydragon for the epic co de mo ds.
-				Thanks to thefox, NeoKat and Hydro for translating.
-				Thank you Thegur90, for making those amazing two songs for 9d.
+				Thanks to everybody who helped translate.
+				Thank you Thegur90, for making those amazing two songs for 9D.
 				Special thanks to dahlukeh, Rubydragon, Flagpole1up, Eenox, Jude, ilikebreadtoomuch.
 				and all the people i forgot )^:
 nameguysdsidespack_epilogue_memorial_text2=
@@ -109,7 +109,7 @@ nameguysdsidespack_epilogue_memorial_text2=
 				.
 				.
 				Yes, you too, J. Now shush.
-###if there's too many translators just say "Thanks to everybody who helped translate".
+###if there's too many translators just say "Thanks to everybody who helped translate."
 nameguysdsidespackepiloguedsideintroroadtext1=[MADELINE left distracted]...
 nameguysdsidespackepiloguedsideintroroadtext2=[MADELINE left sad]{0.5}
 
@@ -168,7 +168,17 @@ nameguysdsidespackfarewelldsidefastbubble1=
 		Really not much more to say. {n}How would you even get this far {n}if you don't already know this anyway.
 		{#9eabff}H{#c59eff}a{#ea9eff}p{#ff9ef4}p{#ff9ec8}y {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#e49eff}!{#ffffff}
 		
-
+nameguysdsidespackfarewelldsidefastbubble2bubblehypers=
+		{#00ff84}~How to bubble hyper~{#ffffff}
+		-Do a {#ff836e}straight dash{#ffffff}, {#ff836e}while on the ground{#ffffff}, towards the bubble.
+		-As soon {#ff836e}as you enter the bubble{#ffffff}, {#ff8975}maybe even a bit before{#ffffff}, {#e8fffe}{~}very quickly{/~}{#ffffff} dash {#ff8975}down-diagonally{#ffffff} and {#ff8975}jump{#ffffff}.
+		
+nameguysdsidespackfarewelldsidefastbubble3bubblehypersShorter=
+		-Do a {#ff836e}straight dash{#ffffff}, {#ff836e}while on the ground{#ffffff}, towards the bubble.
+		-As soon {#ff836e}as you enter the bubble{#ffffff}, {#ff8975}maybe even a bit before{#ffffff}, {#e8fffe}{~}very quickly{/~}{#ffffff} dash {#ff8975}down-diagonally{#ffffff} and {#ff8975}jump{#ffffff}.
+		
+		
+		
 nameguysdsidespackfarewelldsidedarknesshelp=
 	[MADELINE left sadder]{>> 0.15}...{>>}
 	[MADELINE left sadder]Why am i like this.
@@ -321,12 +331,15 @@ nameguysdsidespackfarewelldsideHB9=Maybe.. this isn't my fault.
 nameguysdsidespackfarewelldsideHB10=Maybe...
 nameguysdsidespackfarewelldsideHB11=..I don't need him..
 nameguysdsidespackfarewelldsideHB_End=
-	[MADELINE left normal]I don't need anyone to be my true self.
+	[MADELINE left normal]I don't need anyone to be my true self!
 
 nameguysdsidespackfarewelldsideSummitSectionMeterCount=0.0000000000000((count))ly
 nameguysdsidespackfarewelldsideSummitSectionMeterCountTwelveZeroes=0.000000000000((count))ly
 nameguysdsidespackfarewelldsideSummitSectionMeterCountTwelveZeroesSpace=0.000000000000 ((count)) ly
+nameguysdsidespackfarewelldsideSummitSectionMeterCountFourZeroesSpace=0.0000 ((count))ly
+nameguysdsidespackfarewelldsidePinkSectionLightYearsCount=((count)) ly
 nameguysdsidespackfarewelldsideMoomSectionMeterCount=((count))
+
 nameguysdsidespackfarewelldsideGoldenSectionMeetingTheo=
 	[THEO left excited]{+MADELINE}!
 	[THEO left wtf]...Wait. {0.6}No.
@@ -342,8 +355,10 @@ nameguysdsidespackfarewelldsideGoldenSectionMeetingTheo=
 	[MADELINE right upset]I have this weird feeling that i'll magically {n}get blocked off by an invisible force {n}on the right side of the screen if i don't anyway.
 	[THEO left wtf]If you say so.
 
-
-
-
-
+	
+	
+	
+	
+	
+	
 	

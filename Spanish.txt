@@ -88,7 +88,7 @@ nameguysdsidespack_0_8_core_c_05=Double Down
 poem_nameguysdsidespack_0_8_core_A=Corazonada
 poem_nameguysdsidespack_0_8_core_B=Gracias por jugar.
 nameguysdsidespack_0_8_core_remix=(Say goodbye Mix)
-nameguysdsidespack_0_8_core_remix_artist=Matthew algo algo que no puedo escribir simbolos japoneses
+nameguysdsidespack_0_8_core_remix_artist=Matthew algo algo que no puedo poner simbolos japoneses
 
 nameguysdsidespack_0_9_epilogue=Epílogo
 nameguysdsidespack_epilogue_memorial_text=		-- D - S A R A C   E T S E L E C --
@@ -168,6 +168,12 @@ nameguysdsidespackfarewelldsidefastbubble1=
 		No hay mucho más que decir. {n}Como habrías llegado tan lejos {n}sin saberlo de todas formas.
 		{#e49eff}¡{#9eabff}F{#c59eff}e{#ea9eff}l{#ff9ef4}i{#ff9ec8}z {#ff9e9e}F{#ffc39e}a{#ffe09e}s{#fcff9e}t{#d3ff9e}b{#b0ff9e}u{#9effad}b{#9effea}b{#9eefff}l{#9ecbff}i{#a49eff}n{#c09eff}g{#e49eff}!{#ffffff}
 		
+nameguysdsidespackfarewelldsidefastbubble2bubblehypers=
+		{#00ff84}~Como hacer un bubble hyper~{#ffffff}
+		-Haz un {#ff836e}dash recto{#ffffff}, {#ff836e}mientras estás sobre suelo{#ffffff}, hacia la burbuja.
+		-Tan pronto {#ff836e}como llegues a la burbuja{#ffffff}, {#ff8975}tal vez un poco antes{#ffffff}, {#e8fffe}{~}rápidamente{/~}{#ffffff} haz un dash {#ff8975}abajo-diagonalmente{#ffffff} y {#ff8975}salta{#ffffff}.
+
+
 
 nameguysdsidespackfarewelldsidedarknesshelp=
 	[MADELINE left sadder]{>> 0.15}...{>>}
@@ -311,11 +317,11 @@ nameguysdsidespackfarewelldsideItsSummitTime=
 	
 nameguysdsidespackfarewelldsideHB1=Después de todo lo que pasamos,
 nameguysdsidespackfarewelldsideHB2=¿por qué no me quiere?
-nameguysdsidespackfarewelldsideHB3=Hice todo lo que pude.
+nameguysdsidespackfarewelldsideHB3=Estaba haciendo todo lo que podía.
 nameguysdsidespackfarewelldsideHB4=¿Qué hice mal?
-nameguysdsidespackfarewelldsideHB5=No puedo luchar con esto.
+nameguysdsidespackfarewelldsideHB5=No puedo tomar esto.
 nameguysdsidespackfarewelldsideHB6=Duele mucho.
-nameguysdsidespackfarewelldsideHB7=Porfavor.. detenlo
+nameguysdsidespackfarewelldsideHB7=Por favor.. hazlo parar
 nameguysdsidespackfarewelldsideHB8=Sabes..
 nameguysdsidespackfarewelldsideHB9=A lo mejor.. esto no es mi culpa.
 nameguysdsidespackfarewelldsideHB10=A lo mejor...
@@ -326,7 +332,10 @@ nameguysdsidespackfarewelldsideHB_End=
 nameguysdsidespackfarewelldsideSummitSectionMeterCount=0.0000000000000((count))al
 nameguysdsidespackfarewelldsideSummitSectionMeterCountTwelveZeroes=0.000000000000((count))al
 nameguysdsidespackfarewelldsideSummitSectionMeterCountTwelveZeroesSpace=0.000000000000 ((count)) al
+nameguysdsidespackfarewelldsideSummitSectionMeterCountFourZeroesSpace=0.0000 ((count))al
+nameguysdsidespackfarewelldsidePinkSectionLightYearsCount=((count)) al
 nameguysdsidespackfarewelldsideMoomSectionMeterCount=((count))
+
 nameguysdsidespackfarewelldsideGoldenSectionMeetingTheo=
 	[THEO left excited]{+MADELINE}!
 	[THEO left wtf]...Espera. {0.6}No.
@@ -342,6 +351,10 @@ nameguysdsidespackfarewelldsideGoldenSectionMeetingTheo=
 	[MADELINE right upset]Tengo esta extraña sensación que mágicamente voy a ser {n}encerrada por una fuerza invisible {n}en el lado derecho de la pantalla si no lo hago.
 	[THEO left wtf]Si tu lo dices.
 
-
-
-
+	
+	
+	
+	
+	
+	
+	
