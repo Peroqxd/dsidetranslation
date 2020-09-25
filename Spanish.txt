@@ -1,18 +1,18 @@
 ﻿nameguysdsidespack_0=Monika's D-Sides
 
 nameguysdsidespack_0_0_Prologue=Prólogo
-nameguy_pg_text1=Bueno,{.} aquí está ese sendero abandonado que tanto querías ver...
-nameguy_pg_text2=Estás segura de que quieres escalarlo, {n}¿después de todo lo que te he dicho?
+nameguy_pg_text1=Bueno,{.} aquí está ese "sendero abandonado" que desesperadamente querías ver...
+nameguy_pg_text2=Estás segura de que realmente quieres escalarla, {n}¿después de todo lo que te he dicho?
 nameguy_pg_text3=Oh bueno... En ese caso, no voy a detenerte.{.}{n}¡Suerte ahí fuera!
 
 nameguysdsidespack_0_1_City=Ciudad Olvidada Cara D
-poem_nameguysdsidespack_0_1_City_A=Bienvenido
+poem_nameguysdsidespack_0_1_City_A=Bienvenida
 nameguysdsidespack_0_1_City_b_01=Callejón
+nameguysdsidespack_0_2_Oldsite=Ruinas Cara D
 
 nameguysdsidespack_0_2_Oldsite=Ruinas Cara D
 nameguysdsidespack_0_2_Oldsite_b_01=Memoria
 nameguysdsidespack_0_2_Oldsite_b_05=Salida trasera
-poem_nameguysdsidespack_0_2_Oldsite=Descansa
 poem_nameguysdsidespack_0_2_Oldsite_A=Descansa
 poem_nameguysdsidespack_0_2_Oldsite_B=Descansa
 nameguysdsidespack_0_2_Oldsite_remix=(:thinking: Mix)
@@ -20,11 +20,11 @@ nameguysdsidespack_0_2_Oldsite_remix_artist=Ben Prunty
 nameguy_oldsite_text_intro=(Ahora vuelve al mapa y ve a la Cara B)
 
 nameguysdsidespack_0_3_resort=Celestial Resort Cara D
-poem_nameguysdsidespack_0_3_resort_A=Pagando la cuenta
+poem_nameguysdsidespack_0_3_resort_A=Registro de salida
 nameguysdsidespack_0_3_Resort_b_01=Para y sigue
 nameguysdsidespack_0_3_Resort_b_07=Tejado
 nameguysdsidespack_0_3_Resort_b_00=Limpieza de primavera
-nameguysdsidespack_0_3_Resort_c_01=Pasillo del Ascensor
+nameguysdsidespack_0_3_Resort_c_01=Vestíbulo del Ascensor
 nameguysdsidespack_0_3_Resort_d_00=Ruina
 
 nameguysdsidespack_0_4_Ridge=Risco Dorado Cara D
@@ -33,7 +33,7 @@ nameguysdsidespack_0_4_Ridge_b_01s=Fuertes Vientos
 nameguysdsidespack_0_4_Ridge_c_01n=Tormenta nevada
 
 nameguysdsidespack_0_5_Temple=Templo del espejo Cara D
-nameguysdsidespack_0_5_Temple_c_01=Pasillo Principal
+nameguysdsidespack_0_5_Temple_c_01=Hall Principal
 nameguysdsidespack_0_5_Temple_d_01=Pasaje Superior
 nameguysdsidespack_0_5_Temple_e_01=En el Espejo
 nameguysdsidespack_0_5_Temple_f_01=Crystal Boi
@@ -44,8 +44,8 @@ nameguy_temple_text3=[THEO left thinking]e
 nameguy_temple_text4=[THEO left wtf] ¿Estás segura de esto, {+MADELINE}?
 nameguy_temple_text5=[MADELINE right normal] No te preocupes, {+THEO}. ¡Lo tengo controlado!
 nameguy_temple_text6=[THEO left thinking] Oh, vamos, ¿¡qué es esto!?
-nameguy_temple_text7=[THEO left wtf] {+MADELINE}, esto {~}tiene {/~}que ser imposible. Pero de verdad.
-nameguy_temple_text8=[THEO left thinking] Emm.. no. Ahora me refería a esta. Esta es imposible. Seguro.
+nameguy_temple_text7=[THEO left wtf] {+MADELINE}, esto {~}tiene {/~}que ser imposible. Pero esta vez de verdad.
+nameguy_temple_text8=[THEO left thinking] Emm.. no. En verdad me refería a esta. Esta tiene que ser imposible. Seguro.
 nameguy_temple_text_f10_die_60_times=[THEO left serious] Vamos, {+MADELINE}. Tu puedes.
 nameguy_temple_text_f11_die_30_times=[THEO left serious] Solo un poco más. Tu puedes hacer esto, {+MADELINE}.
 
@@ -82,10 +82,10 @@ nameguysdsidespack_0_7_Summit_remix=(No more running Mix)
 nameguysdsidespack_0_7_Summit_remix_artist=Kuraine
 
 nameguysdsidespack_0_8_core=Núcleo Cara D
-nameguysdsidespack_0_8_core_b_01=Respiración Constante
+nameguysdsidespack_0_8_core_b_01=Respiración Calmada
 nameguysdsidespack_0_8_core_c_01=Resistencia
 nameguysdsidespack_0_8_core_c_05=Double Down
-poem_nameguysdsidespack_0_8_core_A=Corazonada
+poem_nameguysdsidespack_0_8_core_A=Núcleo del corazón
 poem_nameguysdsidespack_0_8_core_B=Gracias por jugar.
 nameguysdsidespack_0_8_core_remix=(Say goodbye Mix)
 nameguysdsidespack_0_8_core_remix_artist=Matthew algo algo que no puedo poner simbolos japoneses
@@ -98,8 +98,8 @@ nameguysdsidespack_epilogue_memorial_text=		-- D - S A R A C   E T S E L E C --
 				Gracias Cruor y Vexatos por crear Ahorn. Esto simplemente no hubiera sido
 				posible sin ustedes. Ustedes son íncreibles. Gracias también a leo60228 por crear
 				la máscara de imagen de los checkpoint de cartas. Y Rubydragon por los epicos mo ds de có di go.
-				Gracias a thefox, NeoKat y Hydro por traducir.
-				Gracias a Thegur90, por crear esas 2 maravillosas canciones para 9d.
+				Gracias a todos quienes ayudaron a traducir.
+				Gracias a Thegur90, por crear esas 2 maravillosas canciones para 9D.
 				Agradicimentos especiales a dahlukeh, Rubydragon, Flagpole1up, Eenox, Jude, ilikebreadtoomuch.
 				y toda la gente que olvide )^:
 nameguysdsidespack_epilogue_memorial_text2=
