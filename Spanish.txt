@@ -1,18 +1,18 @@
 ﻿nameguysdsidespack_0=Monika's D-Sides
 
 nameguysdsidespack_0_0_Prologue=Prólogo
-nameguy_pg_text1=Bueno,{.} aquí está ese sendero abandonado que tanto querías ver...
-nameguy_pg_text2=Estás segura de que quieres escalarlo, {n}¿después de todo lo que te he dicho?
+nameguy_pg_text1=Bueno,{.} aquí está ese "sendero abandonado" que desesperadamente querías ver...
+nameguy_pg_text2=Estás segura de que realmente quieres escalarla, {n}¿después de todo lo que te he dicho?
 nameguy_pg_text3=Oh bueno... En ese caso, no voy a detenerte.{.}{n}¡Suerte ahí fuera!
 
 nameguysdsidespack_0_1_City=Ciudad Olvidada Cara D
-poem_nameguysdsidespack_0_1_City_A=Bienvenido
+poem_nameguysdsidespack_0_1_City_A=Bienvenida
 nameguysdsidespack_0_1_City_b_01=Callejón
+nameguysdsidespack_0_2_Oldsite=Ruinas Cara D
 
 nameguysdsidespack_0_2_Oldsite=Ruinas Cara D
 nameguysdsidespack_0_2_Oldsite_b_01=Memoria
 nameguysdsidespack_0_2_Oldsite_b_05=Salida trasera
-poem_nameguysdsidespack_0_2_Oldsite=Descansa
 poem_nameguysdsidespack_0_2_Oldsite_A=Descansa
 poem_nameguysdsidespack_0_2_Oldsite_B=Descansa
 nameguysdsidespack_0_2_Oldsite_remix=(:thinking: Mix)
@@ -20,11 +20,11 @@ nameguysdsidespack_0_2_Oldsite_remix_artist=Ben Prunty
 nameguy_oldsite_text_intro=(Ahora vuelve al mapa y ve a la Cara B)
 
 nameguysdsidespack_0_3_resort=Celestial Resort Cara D
-poem_nameguysdsidespack_0_3_resort_A=Pagando la cuenta
+poem_nameguysdsidespack_0_3_resort_A=Registro de salida
 nameguysdsidespack_0_3_Resort_b_01=Para y sigue
 nameguysdsidespack_0_3_Resort_b_07=Tejado
 nameguysdsidespack_0_3_Resort_b_00=Limpieza de primavera
-nameguysdsidespack_0_3_Resort_c_01=Pasillo del Ascensor
+nameguysdsidespack_0_3_Resort_c_01=Vestíbulo del Ascensor
 nameguysdsidespack_0_3_Resort_d_00=Ruina
 
 nameguysdsidespack_0_4_Ridge=Risco Dorado Cara D
@@ -33,7 +33,7 @@ nameguysdsidespack_0_4_Ridge_b_01s=Fuertes Vientos
 nameguysdsidespack_0_4_Ridge_c_01n=Tormenta nevada
 
 nameguysdsidespack_0_5_Temple=Templo del espejo Cara D
-nameguysdsidespack_0_5_Temple_c_01=Pasillo Principal
+nameguysdsidespack_0_5_Temple_c_01=Hall Principal
 nameguysdsidespack_0_5_Temple_d_01=Pasaje Superior
 nameguysdsidespack_0_5_Temple_e_01=En el Espejo
 nameguysdsidespack_0_5_Temple_f_01=Crystal Boi
@@ -44,8 +44,8 @@ nameguy_temple_text3=[THEO left thinking]e
 nameguy_temple_text4=[THEO left wtf] ¿Estás segura de esto, {+MADELINE}?
 nameguy_temple_text5=[MADELINE right normal] No te preocupes, {+THEO}. ¡Lo tengo controlado!
 nameguy_temple_text6=[THEO left thinking] Oh, vamos, ¿¡qué es esto!?
-nameguy_temple_text7=[THEO left wtf] {+MADELINE}, esto {~}tiene {/~}que ser imposible. Pero de verdad.
-nameguy_temple_text8=[THEO left thinking] Emm.. no. Ahora me refería a esta. Esta es imposible. Seguro.
+nameguy_temple_text7=[THEO left wtf] {+MADELINE}, esto {~}tiene {/~}que ser imposible. Pero esta vez de verdad.
+nameguy_temple_text8=[THEO left thinking] Emm.. no. En verdad me refería a esta. Esta tiene que ser imposible. Seguro.
 nameguy_temple_text_f10_die_60_times=[THEO left serious] Vamos, {+MADELINE}. Tu puedes.
 nameguy_temple_text_f11_die_30_times=[THEO left serious] Solo un poco más. Tu puedes hacer esto, {+MADELINE}.
 
@@ -82,10 +82,10 @@ nameguysdsidespack_0_7_Summit_remix=(No more running Mix)
 nameguysdsidespack_0_7_Summit_remix_artist=Kuraine
 
 nameguysdsidespack_0_8_core=Núcleo Cara D
-nameguysdsidespack_0_8_core_b_01=Respiración Constante
+nameguysdsidespack_0_8_core_b_01=Respiración Calmada
 nameguysdsidespack_0_8_core_c_01=Resistencia
 nameguysdsidespack_0_8_core_c_05=Double Down
-poem_nameguysdsidespack_0_8_core_A=Corazonada
+poem_nameguysdsidespack_0_8_core_A=Núcleo del corazón
 poem_nameguysdsidespack_0_8_core_B=Gracias por jugar.
 nameguysdsidespack_0_8_core_remix=(Say goodbye Mix)
 nameguysdsidespack_0_8_core_remix_artist=Matthew algo algo que no puedo poner simbolos japoneses
@@ -98,8 +98,8 @@ nameguysdsidespack_epilogue_memorial_text=		-- D - S A R A C   E T S E L E C --
 				Gracias Cruor y Vexatos por crear Ahorn. Esto simplemente no hubiera sido
 				posible sin ustedes. Ustedes son íncreibles. Gracias también a leo60228 por crear
 				la máscara de imagen de los checkpoint de cartas. Y Rubydragon por los epicos mo ds de có di go.
-				Gracias a thefox, NeoKat y Hydro por traducir.
-				Gracias a Thegur90, por crear esas 2 maravillosas canciones para 9d.
+				Gracias a todos quienes ayudaron a traducir.
+				Gracias a Thegur90, por crear esas 2 maravillosas canciones para 9D.
 				Agradicimentos especiales a dahlukeh, Rubydragon, Flagpole1up, Eenox, Jude, ilikebreadtoomuch.
 				y toda la gente que olvide )^:
 nameguysdsidespack_epilogue_memorial_text2=
@@ -173,8 +173,12 @@ nameguysdsidespackfarewelldsidefastbubble2bubblehypers=
 		-Haz un {#ff836e}dash recto{#ffffff}, {#ff836e}mientras estás sobre suelo{#ffffff}, hacia la burbuja.
 		-Tan pronto {#ff836e}como llegues a la burbuja{#ffffff}, {#ff8975}tal vez un poco antes{#ffffff}, {#e8fffe}{~}rápidamente{/~}{#ffffff} haz un dash {#ff8975}abajo-diagonalmente{#ffffff} y {#ff8975}salta{#ffffff}.
 
-
-
+nameguysdsidespackfarewelldsidefastbubble3bubblehypersShorter=
+		-Haz un {#ff836e}dash recto{#ffffff}, {#ff836e}mientras estás sobre suelo{#ffffff}, hacia la burbuja.
+		-Tan pronto {#ff836e}como llegues a la burbuja{#ffffff}, {#ff8975}tal vez un poco antes{#ffffff}, {#e8fffe}{~}rápidamente{/~}{#ffffff} haz un dash {#ff8975}abajo-diagonalmente{#ffffff} y {#ff8975}salta{#ffffff}.
+	
+	
+	
 nameguysdsidespackfarewelldsidedarknesshelp=
 	[MADELINE left sadder]{>> 0.15}...{>>}
 	[MADELINE left sadder]¿Por qué soy asi?
@@ -184,7 +188,7 @@ nameguysdsidespackfarewelldsidedarknesshelp=
 	[]Oye.
 	[]¿Estás bien?
 	[MADELINE left sad] Umm.. {0.3}no. {0.1}En verdad no.
-	[]Esta bien. {0.1}Ven aquí. {0.1}Déjame darte un abrazo.
+	[]Está bien. {0.1}Ven aquí. {0.1}Déjame darte un abrazo.
 	[MADELINE left sad]{0.4}.{0.4}.{0.4}.
 	[]{0.4}.{0.4}.{0.4}.
 	[MADELINE left peaceful]{0.38}.{0.3}.{0.29}.
@@ -198,7 +202,7 @@ nameguysdsidespackfarewelldsidedarknesshelpBubblesIntro=
 	[]Bien. {0.1}Solo manten la calma.{n} {0.05}Podemos hacer esto juntos.
 nameguysdsidespackfarewelldsidedarknesshelpBubbles=
 	[]Hay un par de {#00ff66}burbujas{#ffffff} justo en frente de ti.
-	[]Tendrás que ir a la {#ff8f93}derecha{#ffffff} hasta que toques la cuarta, la cual tendras que tomar hacia {#b3fcff}arriba{#ffffff}. Luego solo sigue por la {#ff8f93}derecha{#ffffff} de nuevo.
+	[]Tendrás que ir a la {#ff8f93}derecha{#ffffff} hasta que toques la cuarta, la cual tendrás que tomar hacía {#b3fcff}arriba{#ffffff}. Luego solo sigue por la {#ff8f93}derecha{#ffffff} de nuevo.
 nameguysdsidespackfarewelldsidedarknesshelpBubblesEnd=
 	[]Ahí. ¡Definitivamente lo tenemos!
 	[MADELINE left normal] ¡Si!
@@ -207,21 +211,21 @@ nameguysdsidespackfarewelldsidedarknesshelpBubblesEnd=
 	[]Ahora solo ve a la derecha y no te tropieces jaja.{0.4}{n}Hay un pequeño reborde ahi.
 
 nameguysdsidespackfarewelldsidedarknesshelpMoreBubblesIntro=
-	[]Bien, esto se ven como mas de esas {#00ff66}burbujas{#ffffff}.
+	[]Bien, esto se ve como más de esas {#00ff66}burbujas{#ffffff}.
 nameguysdsidespackfarewelldsidedarknesshelpMoreBubbles=
 	[]La primera esta justo {#b3fcff}arriba{#ffffff} tuyo.
 	[]Luego es {#ff8f93}derecha{#ffffff}, {#b3fcff}arriba dos veces{#ffffff}, {#ff8f93}derecha{#ffffff}, {#db99ff}abajo{#ffffff}, y {#ff8f93}derecha{#ffffff} de nuevo.
 	[]Hay una pared {#ff8f93}más lejos a la derecha.{#ffffff}{0.1}{n} Si la escalas hacía {#b3fcff}arriba{#ffffff}, deberían haber más burbujas{n} ahí arriba las cuales solo puedes tomar a la {#ff8f93}derecha{#ffffff}.
 nameguysdsidespackfarewelldsidedarknesshelpMoreBubblesAppendix=
 	[MADELINE left sad]Esto parece muy complicado.
-	[]Jaja{0.07} probablemente lo hice sonar muy complicado{n} Pero créeme es bastante simple.
+	[]Jaja{0.07} probablemente lo hice sonar muy complicado{n} Pero confía en mi es bastante simple.
 nameguysdsidespackfarewelldsidedarknesshelpMoreBubblesEnd=
-	[]¿Lo ves? Te dije que no era tan malo.
+	[]¿Lo ves? Te dije que no es tan malo.
 	[MADELINE left upset]No. {0.1}No lo veo. {0.22}De hecho, no veo nada.
 	[MADELINE left normal]Bueno, sigamos.
 
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlocks=
-	[]Ok entonces, si sigues caminando por un momento{n} tendria que haber uno de esos {#a386d1}bloques movedizos{#ffffff} ahí.
+	[]Ok entonces, si sigues caminando por un momento{n} debería haber uno de esos {#a386d1}bloques movedizos{#ffffff} ahí.
 	[]Solo parate en el por, algo entre {#c7ff45}2{#ffffff} a {#c7ff45}3{#ffffff} segundos.
 	[]Luego tendría que haber {#a386d1}otro{#ffffff} al cual puedes hacer un dash y agarrar {#ddff9e}arriba tuyo a la izquierda{#ffffff}.
 	[]Parece que la distancia es la misma, asi que espera el mismo tiempo. Luego solo {#db99ff}dejate caer{#ffffff}.
@@ -247,14 +251,14 @@ nameguysdsidespackfarewelldsidedarknesshelpSwapBlock=
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingIntro=
 	[]Más de estos {#a386d1}bloques movedizos{#ffffff}.
 	[]Esta vez parecen estar bastante mas lejos.
-	[]Uh, muevete {#ff8f93}derecho{#ffffff} hasta estar en el {#a386d1}bloque{#ffffff},{n}y luego espera apróximadamente... {n}{#c7ff45}8{#ffffff} segundos o alg-
+	[]Uh entonces, muevete {#ff8f93}derecha{#ffffff} hasta estar en el {#a386d1}bloque{#ffffff},{n}y luego espera apróximadamente... {n}{#c7ff45}8{#ffffff} segundos o alg-
 	[MADELINE left upset]Esto nunca va a funcionar.{n}{0.6}Ni siquiera se cuando {n}voy a tener que saltar.
 	[]...Tienes {#ff8f93}razón.{#ffffff}
 	[MADELINE left upset]...
 	[]{>>0.5}Mmmm...{>>}
 	[]Ok. Tengo una idea.
-	[MADELINE left sad] Oh no.
-	[]Solo ten paciencia. {0.1}Lo lograremos.
+	[MADELINE left sad] Ohno.
+	[]Solo ten paciencia conmigo aquí. {0.1}Lo lograremos.
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTiming=
 	[]Bien, entonces, {0.2}Parate en el {#a386d1}bloque{#ffffff}. {n}Cuando te diga, salta en tu lugar.
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownIntro=Bien, entonces..
@@ -266,14 +270,14 @@ nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownMinusOne=-0..
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownJump=¡¡Salta!!
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingCountdownGo=¡¡Ve!!
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingFirstJumpDone=¡Yay! Buen trabajo. En fin uh, SALTA
-nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingSecondJumpDone=Y AGACHATE
+nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingSecondJumpDone=y AGACHATE
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingAfterDuck=Lo siento por eso jaja. Bueno,{n} cuando diga ve, Vas a saltar y hacer un dash arriba, ok?
 nameguysdsidespackfarewelldsidedarknesshelpMoveBlockTimingEnd=
 	[MADELINE left upset]Ok, ahora solo estas bromeando conmigo.
 	[]Ajaja Lo siento.
-nameguysdsidespackfarewelldsidedarknesshelpBRB=Ok {+MADELINE}. Tengo que
+nameguysdsidespackfarewelldsidedarknesshelpBRB=Okay {+MADELINE}. Tengo que
 nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutWalkRight=
-	[]Mm. Con cuidado camina un poco a la derecha.
+	[]Mm. Con cuidado camina un poco más a la derecha.
 nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutStop=Bien, ahora detente.{n} Creo que si solo haces un dash desde aquí lo lograrás.
 nameguysdsidespackfarewelldsidedarknesshelpDarknessFadeOutDashNGrab=
 	[]Bien.{n}Hay una pared hacia la derecha. {n}Solo haz un dash hacía ella y escala hacía arriba.
@@ -291,31 +295,31 @@ nameguysdsidespackfarewelldsidedarknesshelpAfterwards=
 nameguysdsidespackfarewelldsidedarknesshelpAfterwards2=
 	[]Deberías dormir. Te ayudará.
 	[MADELINE left sad]No. Hay algo que tengo que terminar primero.
-	[MADELINE left normal]Aun que, tu puedes ir si quieres.
+	[MADELINE left normal]Aunque, tu puedes ir si quieres.
 	[]¿Estás segura?
 	[MADELINE left normal]Si. Estaré bien.
 	[]Bien porque de hecho estoy algo cansado jaja.
 	[MADELINE left sad]Lo siento, no quise mantenerte despierto.
-	[]Nah, está bien. {n}Y deja de disculparte por todo.
+	[]Nah, está bien. {n}Y deja de disculparte por todo de una vez.
 	[MADELINE left peaceful] Lo siento.
-	[]Shhh.
+	[]Shup.
 	[]Bueno, voy a la cama.{n}Buena suerte con el resto de esto.
 	[MADELINE left normal]Gracias. Buenas noches. {0.2}{#d996ff}<3{#ffffff}
 nameguysdsidespackfarewelldsideCloudAscentIntro=
-	[BADELINE right concerned]{+MADELINE}. {0.1}¿Por cuanto tiempo va a seguir esto?
-	[BADELINE right upset]Ya tendrías que haberlo superado.
+	[BADELINE right concerned]{+MADELINE}. {0.1}¿Por cuánto tiempo va a seguir esto?
+	[BADELINE right upset]Tienes que superarlos en algún momento.
 	[MADELINE left distracted]Si. {0.1}Lo sé.{0.2}{n}Y lo haré.
 	[MADELINE left sad]Pero tengo que terminar esto correctamente.
-	[MADELINE left sad]Esta es la última vez que podre hacer esto.
-	[MADELINE left sad]Asi que solo coopera conmigo, ¿ok?
-	[MADELINE left upset]Además no me has estado ayudando{n}mucho hasta ahora.
+	[MADELINE left sad]Esta es la última vez que podremos hacer esto después de todo.
+	[MADELINE left sad]Asi que solo coopera conmigo aquí, ¿ok?
+	[MADELINE left upset]No es como si me hubieses estado ayudando{n}mucho para empezar.
 	[BADELINE right sigh]Lo siento.{1.0}{n}Tienes razón.
 nameguysdsidespackfarewelldsideItsSummitTime=
 	[BADELINE right worried]Bueno.
 	[BADELINE right worried]Hagamoslo..
 	[MADELINE left normal]Una última vez.
 	
-nameguysdsidespackfarewelldsideHB1=Después de todo lo que pasamos,
+nameguysdsidespackfarewelldsideHB1=Después de todo lo que hemos pasado,
 nameguysdsidespackfarewelldsideHB2=¿por qué no me quiere?
 nameguysdsidespackfarewelldsideHB3=Estaba haciendo todo lo que podía.
 nameguysdsidespackfarewelldsideHB4=¿Qué hice mal?
@@ -327,7 +331,7 @@ nameguysdsidespackfarewelldsideHB9=A lo mejor.. esto no es mi culpa.
 nameguysdsidespackfarewelldsideHB10=A lo mejor...
 nameguysdsidespackfarewelldsideHB11=..No lo necesito..
 nameguysdsidespackfarewelldsideHB_End=
-	[MADELINE left normal]No necesito a nadie para ser yo misma.
+	[MADELINE left normal]¡No necesito a nadie para ser yo misma!
 
 nameguysdsidespackfarewelldsideSummitSectionMeterCount=0.0000000000000((count))al
 nameguysdsidespackfarewelldsideSummitSectionMeterCountTwelveZeroes=0.000000000000((count))al
@@ -337,18 +341,18 @@ nameguysdsidespackfarewelldsidePinkSectionLightYearsCount=((count)) al
 nameguysdsidespackfarewelldsideMoomSectionMeterCount=((count))
 
 nameguysdsidespackfarewelldsideGoldenSectionMeetingTheo=
-	[THEO left excited]{+MADELINE}!
+	[THEO left excited]¡{+MADELINE}!
 	[THEO left wtf]...Espera. {0.6}No.
 	[THEO left wtf]No puedes ser...{0.4} No puedes ser real.
 	[THEO left thinking]¿Me estoy volviendo loco?
 	[MADELINE right normal]Creo que yo{/~} soy la que se volvió loca.
-	[MADELINE right distracted]Ni siquiera recuerdo como llegué aquí.
-	[MADELINE right concerned]Todo lo que recuerdo es  una {n}cruz amarilla moviéndose {n}y un montón de cajas coloridas. 
+	[MADELINE right distracted]Ni siquiera recuerdo realmente como llegué aquí.
+	[MADELINE right concerned]Todo lo que recuerdo es una {n}cruz amarilla moviéndose {n}y un montón de cajas coloridas. 
 	[MADELINE right concerned]...
-	[THEO left wtf]...{1.0}Que raro.
-	[THEO left normal]Bueno, ahora que estas aquí, te importarí-
+	[THEO left wtf]...{1.0}Extraño.
+	[THEO left normal]Bueno, ahora que estás aquí, te importarí-
 	[MADELINE right upset]Si si,.{0.4} Te voy a cargar.
-	[MADELINE right upset]Tengo esta extraña sensación que mágicamente voy a ser {n}encerrada por una fuerza invisible {n}en el lado derecho de la pantalla si no lo hago.
+	[MADELINE right upset]Tengo esta extraña sensación que mágicamente voy a ser {n}encerrada por una fuerza invisible {n}en el lado derecho de la pantalla si no lo hago de todas formas.
 	[THEO left wtf]Si tu lo dices.
 
 	
